@@ -1,3 +1,3 @@
-![ScreenShot](LoginPage.png)
+![ScreenShoot](LoginPage.png)
 
 
